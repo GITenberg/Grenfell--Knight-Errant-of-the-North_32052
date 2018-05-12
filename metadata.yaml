@@ -1,0 +1,27 @@
+_repo: Grenfell--Knight-Errant-of-the-North_32052
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Waldo, Fullerton Leonard
+    birthdate: 1877
+    deathdate: 1933
+    gutenberg_agent_id: '35639'
+    url: http://www.gutenberg.org/2009/agents/35639
+description: ''
+gutenberg_issued: '2010-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32052'
+  lccn: '24024148'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Grenfell, Wilfred Thomason, Sir, 1865-1940'
+title: 'Grenfell: Knight-Errant of the North'
+url: http://www.gutenberg.org/ebooks/32052
